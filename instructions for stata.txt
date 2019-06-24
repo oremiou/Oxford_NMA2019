@@ -1,0 +1,12 @@
+
+For installing metan, please run in Stata:
+net install sbe24_3, from(http://www.stata-journal.com/software/sj9-2) replace
+
+for mvmeta run
+net install st0156_2,from(http://www.stata-journal.com/software/sj15-4) replace
+
+for network run
+net install st0410,from(http://www.stata-journal.com/software/sj15-4) replace
+
+for network graphs run:
+net install st0411, from(http://www.stata-journal.com/software/sj15-4) replace
